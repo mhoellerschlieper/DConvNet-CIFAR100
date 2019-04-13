@@ -1,7 +1,7 @@
 # DConvNet-CIFAR100
 Delphi ConvNet - convolutional neural network for CIFAR100
 
-This is a ConvNetJS to Delphi 10 (object pascal) translation.
+This is a ConvNet to Delphi 10 (object pascal) translation.
 
 A Convolution Neural Network in Delphi.
 
