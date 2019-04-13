@@ -5,7 +5,8 @@ This is a ConvNetJS to Delphi 10 (object pascal) translation.
 
 A Convolution Neural Network in Delphi.
 
-This net learns to categorize images to 100 different categories.
+This net learns to categorize images to 100 different categories. 
+
 
 Download the CIFAR-100 binaries (Images) from: https://www.cs.toronto.edu/~kriz/cifar-100-binary.tar.gz
 
