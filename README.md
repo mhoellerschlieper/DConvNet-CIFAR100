@@ -13,18 +13,5 @@ The "Common" directory contains all CNN algorithm sources. The CIFAR_100/work Di
 
 
 // =========================================================================
-Layer: 
-  input, 
-  fc, 
-  dropout, 
-  softmax, 
-  regression, 
-  conv, 
-  pool, 
-  relu, 
-  sigmoid, 
-  tanh, 
-  maxout, 
-  svm
-
+Layer: input, fc, dropout, softmax, regression, conv, pool, relu, sigmoid, tanh, maxout, svm
 Methods: adam, adagrad, windowgrad, adadelta, nesterov
