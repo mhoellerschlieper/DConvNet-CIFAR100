@@ -11,6 +11,7 @@ Download the CIFAR-100 binaries (Images) from "https://www.cs.toronto.edu/~kriz/
 
 The "Common" directory contains all CNN algorithm sources. The CIFAR_100/work Directory cointais a test project for CIFAR-100. What CIFAR-100 is, you can read at https://www.cs.toronto.edu/~kriz/cifar.html
 
+
 // =========================================================================
 -- Layer: input, fc, dropout, softmax, regression, conv, pool, relu, sigmoid, tanh, maxout, svm
 -- Parameter: layer, name, filter_size, filter_count, stride, size, pad, size_x,size_y, depth, activation, dropprob
