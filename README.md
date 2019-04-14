@@ -14,7 +14,9 @@ The "Common" directory contains all CNN algorithm sources. The CIFAR_100/work Di
 
 // =========================================================================
 -- Layer: input, fc, dropout, softmax, regression, conv, pool, relu, sigmoid, tanh, maxout, svm
+
 -- Parameter: layer, name, filter_size, filter_count, stride, size, pad, size_x,size_y, depth, activation, dropprob
+
 [Structure]
 L001=Layer:Input,   Name:input,  Size_x:32, Size_y:32, Depth:3
 L002=Layer:Conv,    Name:conv 1, Filter_Size: 3, Filter_Count:20, Stride:0, Pad:0, Activation:relu
