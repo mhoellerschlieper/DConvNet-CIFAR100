@@ -45,8 +45,6 @@ method = adagrad
 
 batch_size = 15
 
-// (4) nach jedem Batch werden die Gradienten gelöscht!
-
 learning_rate = 0.01
 
 momentum = 0.9
